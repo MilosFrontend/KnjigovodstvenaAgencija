@@ -1,2 +1,2 @@
 # KnjigovodstvenaAgencija
-Ovo je konzolna aplikacija primera (knjigovodstvene agencije)
+Ovo je konzolna aplikacija u JAVA - primer:(knjigovodstvena agencija)
